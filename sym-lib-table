@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "IMU_Array_library")(type "KiCad")(uri "D:/Hardware_Designs/KiCad/IMU_Array/IMU_Array_library.kicad_sym")(options "")(descr ""))
+)
