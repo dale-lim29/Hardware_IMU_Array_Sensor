@@ -18,16 +18,16 @@ This multi-layer design ensures proper signal integrity, power distribution, and
 
 ### PCB Layer Images
 
-**Layer 1 - Top Component Layer:**
+**Layer 1:**
 ![Layer1.png](Image/Layer1.png)
 
-**Layer 3 - Signal Layer:**
+**Layer 3:**
 ![Layer3.png](Image/Layer3.png)
 
-**Layer 4 - Power Plane:**
+**Layer 4:**
 ![Layer4.png](Image/Layer4.png)
 
-**Layer 6 - Bottom Layer:**
+**Layer 6:**
 ![Layer6.png](Image/Layer6.png)
 
 ## Note
