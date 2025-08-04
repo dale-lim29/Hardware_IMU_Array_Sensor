@@ -9,13 +9,6 @@ This board based on use IMU sensor (ICM42688-P) and Multiplexer (TCA9548A)
 
 The PCB is designed with a 6-layer stackup:
 
-- **Layer 1**: Top Component Layer - Primary component placement and routing
-- **Layer 2**: Ground Plane - Provides ground reference and shielding
-- **Layer 3**: Signal Layer - Internal signal routing
-- **Layer 4**: Power Plane - Power distribution and filtering
-- **Layer 5**: Signal Layer - Additional internal signal routing
-- **Layer 6**: Bottom Layer - Secondary component placement and routing
-
 This multi-layer design ensures proper signal integrity, power distribution, and electromagnetic compatibility for the IMU array sensor system.
 
 ### PCB Design Overview
